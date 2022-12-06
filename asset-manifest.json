@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Coderhouse-React-JS-ecommerce/static/css/main.8b7ead70.css",
+    "main.js": "/Coderhouse-React-JS-ecommerce/static/js/main.1cf29be6.js",
+    "index.html": "/Coderhouse-React-JS-ecommerce/index.html",
+    "main.8b7ead70.css.map": "/Coderhouse-React-JS-ecommerce/static/css/main.8b7ead70.css.map",
+    "main.1cf29be6.js.map": "/Coderhouse-React-JS-ecommerce/static/js/main.1cf29be6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b7ead70.css",
+    "static/js/main.1cf29be6.js"
+  ]
+}
