@@ -1,0 +1,71 @@
+.itemCount{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.detalle {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    opacity: 0.8;
+}
+
+.divCardBody{
+    background-color: rgb(145, 145, 145);
+}
+
+.dataEvento{
+    border: 1px solid rgb(203, 203, 203);
+    background-color: rgb(231, 231, 231);
+    display: flex;
+    justify-content: center;
+    font-size: x-large;
+    padding: 10px 10px;
+    margin-top: -10px;
+}
+
+.dataEvento2{
+    margin-top: 0px;
+}
+
+.fecha{
+    font-size: medium;
+}
+
+.imgID{
+    height: 300px;
+    width: 400px;
+}
+
+.contenedorPrincipalID{
+    width: 100%;
+}
+
+.descriptionID{
+    display: flex;
+}
+
+.descripcionID2{
+    display: flex;
+    flex-direction: column;
+    padding: 60px;
+    font-size: large;
+    width: 40%;
+}
+
+.entradasCompradas{
+    display: flex;
+}
+.botonCart{
+    width: 100%;
+    margin: 0px;
+    display: flex;
+    align-self: center;
+}
+
+.goToCart{
+    margin: 80px 50px;
+}

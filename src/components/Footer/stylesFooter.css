@@ -1,0 +1,39 @@
+.contenedorFooter{
+    width: 100%;
+}
+
+.contenedorDiv{
+    display: flex;
+    justify-content: space-around;
+    margin: 50px 0px 50px 0px;
+}
+
+.contenedorRedes{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 80px;
+    background-color: rgb(203, 203, 203);
+}
+
+.bTitle {
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.pFooter{
+    margin: 5px 5px;
+    width: 30px;
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
+
+.pFooter:hover{
+    width: 35px;
+}
+
+.links{
+    display: flex;
+    flex-direction: column;
+}
