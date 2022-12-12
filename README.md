@@ -3,7 +3,7 @@
 # Navegación:
 ![alt text](./public/assets/img/app-working.gif)
 
-Se puede acceder online desde el siguiente link: [https://Fedefernandez97.github.io/Coderhouse-React-JS-ecommerce](https://Fedefernandez97.github.io/Coderhouse-React-JS-ecommerce)
+Se puede acceder online desde el siguiente link: [https://cultura-y-entretenimiento.netlify.app/](https://cultura-y-entretenimiento.netlify.app/)
 
 
 Temas vistos:
